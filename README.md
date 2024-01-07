@@ -26,6 +26,7 @@ Early in the making. If you encounter any issues, idk like fix it and PR 👍�
 # Contact:
 
 Don't contact me. ☠️
+If u one of le creators tell me if i missed any liscense or rule 😂
 
 # Rules:
 

@@ -1,11 +1,10 @@
 # BH3-Chibi-Shader
-
-Blender Shader in attempt to replicate the looks of Honkai Impact 3rd's Dorm Chibis
+## A Blender Shader in attempt to replicate the looks of Honkai Impact 3rd's Dorm Chibis (Blender v3.6+)
 
 Early in the making. If you encounter any issues, idk like fix it and PR 👍🏿
 
 <p align="center">
-    <a href="https://github.com/Moistcrafter/BH3-Chibi-Shader/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Moistcrafter/BH3-Chibi-Shader?style=for-the-badge"></a><br>
+    <a href="https://github.com/Moistcrafter/BH3-Chibi-Shader/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Moistcrafter/BH3-Chibi-Shader?style=for-the-badge"></a><br>
     <a href="https://github.com/Moistcrafter/BH3-Chibi-Shader/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Moistcrafter/BH3-Chibi-Shader?style=for-the-badge"></a>
 </p>
 
@@ -14,10 +13,10 @@ Early in the making. If you encounter any issues, idk like fix it and PR 👍�
 - [Festivity](https://github.com/festivities) some nodes 👍🏿
 - [Bonny](https://www.youtube.com/@BonnyAnimations/) idk bonny made nodes too 👍🏿👍🏿
 - [Flicks](https://github.com/FlicksDaModdle) inspiration 🔥
-- Modder4869 👍🏿 thanks
-- revunant0 👍🏿 thanks
+- Modder4869 👍🏿 files
+- revunant0 👍🏿 files
 - [Aerthas Veras](https://github.com/Aerthas/) flipbook 👍
-- [Razmoth](https://github.com/Razmoth/)
+- [Razmoth](https://github.com/Razmoth/) tools 🛠️
 
 # How to use:
 
@@ -26,7 +25,8 @@ Early in the making. If you encounter any issues, idk like fix it and PR 👍�
 # Contact:
 
 Don't contact me. ☠️
-If u one of le creators tell me if i missed any liscense or rule 😂
+
+if u one of the creators tell me if i missed any liscense or rule 😂
 
 # Rules:
 
@@ -35,6 +35,6 @@ If u one of le creators tell me if i missed any liscense or rule 😂
 
 ## Disclaimer
 
-These shaders are not 100% accurate, maybe ill add more stuff later 🦀
+These shaders are not 100% accurate, maybe ill add more stuff later 🦀 (GLSL Experts dm me 👍🏿👍🏿👍🏿👍🏿👍🏿👍🏿👍🏿👍🏿👍🏿👍🏿)
 
-These shaders are meant for datamined assets, but feel free to customize to your liking ✂️ i do not provide tools for mining or whatever
+These shaders are meant for datamined assets, but feel free to customize to your liking ✂️ i do not provide tools for mining or whatever 👎🏿

@@ -1,7 +1,13 @@
 # BH3-Chibi-Shader
 ## A Blender Shader in attempt to replicate the looks of Honkai Impact 3rd's Dorm Chibis (Blender v3.6+)
 
-Early in the making. If you encounter any issues, idk like fix it and PR 👍🏿
+
+<p align="center">
+    <a href="https://github.com/Moistcrafter/BH3-Chibi-Shader"><img src="https://github.com/Moistcrafter/BH3-Chibi-Shader/blob/main/images/ely.gif" alt="ely sitting on chair"/></a>
+</p>
+In development, not indicative of final product.
+
+If you encounter any issues, idk like fix it and PR 👍🏿
 
 <p align="center">
     <a href="https://github.com/Moistcrafter/BH3-Chibi-Shader/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Moistcrafter/BH3-Chibi-Shader?style=for-the-badge"></a><br>

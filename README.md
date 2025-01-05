@@ -20,7 +20,7 @@ If you encounter any issues, idk like fix it and PR 👍🏿
 - [Bonny](https://www.youtube.com/@BonnyAnimations/) idk bonny made nodes too 👍🏿👍🏿
 - [Flicks](https://github.com/FlicksDaModdle) inspiration 🔥
 - Modder4869 👍🏿 files
-- revunant0 👍🏿 files
+- nxth1ngness aka yuki☆ 👍🏿 files
 - [Aerthas Veras](https://github.com/Aerthas/) flipbook 👍
 - [Razmoth](https://github.com/Razmoth/) tools 🛠️
 
